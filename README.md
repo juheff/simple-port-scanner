@@ -28,4 +28,3 @@ Run the script with the required arguments:
 ```bash
   python3 port_scanner.py <host> --start-port <start_port> --end-port <end_port>
 
-   
