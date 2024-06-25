@@ -18,12 +18,14 @@ A simple port scanner script written in Python. This tool scans specified ports 
    ```bash
    git clone https://github.com/yourusername/simple-port-scanner.git
    cd simple-port-scanner
-2. Make the script executable (optional):chmod +x port_scanner.py
+2. Make the script executable (optional):
+   ```bash
+   chmod +x port_scanner.py
 
 ## Usage
 
 Run the script with the required arguments:
-  '''bash
+```bash
   python3 port_scanner.py <host> --start-port <start_port> --end-port <end_port>
 
    
